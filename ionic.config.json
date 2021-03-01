@@ -1,0 +1,7 @@
+{
+  "name": "deceos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
